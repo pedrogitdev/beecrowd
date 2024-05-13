@@ -3,7 +3,6 @@
 
 Bem-vindo ao repositório dos meus exercícios resolvidos no BeeCrowd! Aqui você encontrará uma coleção de problemas de programação que venho resolvendo para aprimorar minhas habilidades em algoritmos e lógica de programação.
 
-Navegando pelos Problemas
 Os problemas estão localizados no diretório /Beecrowd.
 
 Contato
